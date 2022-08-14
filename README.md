@@ -77,9 +77,9 @@ Some basic logging is available by appending ` -log` to the _state_cmd_. This wi
   > ModuleNotFoundError: No module named 'six'
 
   Reinstall pyatv using an administrator command prompt
-  '''
+  ```
   pip3 install --upgrade --force-reinstall pyatv
-  '''
+  ```
 
 ### Acknowledgements
 None of this would be possible without the following projects:
