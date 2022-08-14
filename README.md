@@ -56,7 +56,7 @@ Add your companion credential by pairing atvremote with your Apple TV and copyin
 ```
 atvremote.exe --id AA:BB:CC:DD:EE:FF --protocol companion pair
 ```
-Create your homebridge-cmd4 config by running and copying its output into homebridge-cmd4 settings in Homebridge:
+Create your homebridge-cmd4 config by running the following and copying its output into homebridge-cmd4 settings in Homebridge:
 ```
 atv_control.ps1 -CreateConfig
 ```
